@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+body {
+    padding-top: 70px;
+    background-color: #779E7E;
+    background-image: url(images/background2grrenAndBrown.png);
+    background-size: contain;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* nav bar*/
+.navbar {
+    background-color: #779E7E !important ;
+}
+
+.navbar-nav {
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* fold*/
+
+
+
+.txtCenered{
+    text-align: center;
+}
+
+/*relax*/
+
+.txtcolor{
+    color: black;
+}
+
+/*footer*/
+
+.card-text{
+    color: black;
+    background-color: rgba(255, 255, 255, 0);
+}
+.TanWave {
+    height: 2px;
+    display: flex;
+    width: 100%;
+}
+.FooterText {
+    width: 200px;
+    height: 200px;
+    font-size: 24px;
+    margin: 150px;
+}
+footer {
+   
+    display: flex;
+    text-align: left;
+    color: black;
+    padding: 70px;
+    display: flex;
+}
+.footericons {
+    background-color: #CEC5B4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.footerlinks {
+    background-color: #CEC5B4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Line {
+    width: 700px;
+    height: 2px;
+}
+.footerline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 1px;
+}
+
+.naranja{
+    display: flexbox;
+    text-align: center;
+color: black;
+font-size: 20px;
+    background-color: #D37221;
+}
+
+.card{
+    background-color: #cec5b400;
+    border: none;
+}
+
+.txtcardy{
+    font-size: 14px;
+}
+
+.navbar-collapse.container-fluid {
+    display: flex;
+    justify-content: right;
+}
+
+.nav-link {
+    color: white !important;
+}
+
